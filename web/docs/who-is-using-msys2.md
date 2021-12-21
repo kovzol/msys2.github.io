@@ -25,5 +25,6 @@ title: Who Is Using MSYS2?
 * [The R Project](https://www.r-project.org/) build system [rtools40](https://cran.r-project.org/bin/windows/Rtools) is based on MSYS2 icw/ a custom repository of [mingw packages](https://github.com/r-windows/rtools-packages) (all statically linked).
 * [UrusStudio Installer](https://github.com/UrusTeam/urusstudio_installer) uses MSYS2 for building and running Urus Studio IDE and URUS System.
 * [Webots](https://github.com/cyberbotics/webots) uses MSYS2 to build Webots on Windows and for CI.
+* [GeoGebra Discovery](https://github.com/kovzol/geogebra-discovery) uses MSYS2 to build [Tarski](https://github.com/kovzol/tarski) on Windows and for CI.
 
 *Feel free to add your project to this list!*
